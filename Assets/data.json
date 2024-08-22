@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "MacBook Pro M3",
+      "description": "MacBook Pro M3 adalah laptop terbaru dari Apple yang dilengkapi dengan chip M3, memberikan performa yang sangat cepat dan efisiensi energi yang luar biasa. Dengan desain elegan dan layar Retina yang tajam, MacBook Pro M3 cocok untuk profesional kreatif yang membutuhkan perangkat yang kuat dan portabel.\n\nDengan baterai tahan lama dan dukungan untuk berbagai aplikasi profesional, MacBook Pro M3 memastikan Anda tetap produktif di mana pun Anda berada. Laptop ini juga dilengkapi dengan sistem operasi macOS terbaru, memberikan pengalaman pengguna yang mulus dan aman.",
+      "price": 37999000,
+      "rating": 4.8,
+      "sold": 120,
+      "images": "https://raw.githubusercontent.com/tiofani03/ProductApp/main/Assets/image_laptop.png"
+    },
+    {
+      "id": 2,
+      "name": "Sony Camera",
+      "description": "Kamera Sony ini memiliki resolusi tinggi dengan fitur autofocus yang canggih dan kemampuan merekam video dalam 4K. Kamera ini dirancang untuk fotografer profesional yang membutuhkan kualitas gambar yang tajam dan detail.\n\nDilengkapi dengan berbagai mode pemotretan dan kemampuan untuk menangkap gambar dalam kondisi cahaya rendah, kamera Sony ini adalah pilihan ideal untuk berbagai keperluan fotografi. Desainnya yang ergonomis juga membuatnya nyaman digunakan dalam jangka waktu yang lama.",
+      "price": 20999000,
+      "rating": 4.7,
+      "sold": 85,
+      "images": "https://raw.githubusercontent.com/tiofani03/ProductApp/main/Assets/image_camera.png"
+    },
+    {
+      "id": 3,
+      "name": "VortexSeries Xera87 Wireless Mechanical TKL Gaming Keyboard - Lilac, OutemuJadeWhite",
+      "description": "VortexSeries Xera87 adalah keyboard mekanis gaming dengan switch OutemuJadeWhite yang taktil, memberikan pengalaman mengetik dan gaming yang responsif. Desain TKL (Tenkeyless) membuatnya lebih ringkas dan mudah dibawa ke mana-mana.\n\nDengan konektivitas wireless, Anda bisa bermain game tanpa terganggu oleh kabel. Warna lilac yang elegan dan keycaps yang dapat diganti menambah gaya unik pada setup gaming Anda.",
+      "price": 2699000,
+      "rating": 4.6,
+      "sold": 300,
+      "images": "https://raw.githubusercontent.com/tiofani03/ProductApp/main/Assets/image_keyboard.png"
+    },
+    {
+      "id": 4,
+      "name": "Tumbler",
+      "description": "Tumbler ini dirancang untuk menjaga minuman Anda tetap panas atau dingin selama berjam-jam. Terbuat dari bahan stainless steel berkualitas tinggi, tumbler ini tahan lama dan mudah dibersihkan.\n\nDengan desain yang modern dan ukuran yang pas untuk dibawa kemana-mana, tumbler ini adalah pilihan sempurna untuk menemani aktivitas sehari-hari Anda, baik di kantor maupun di luar ruangan.",
+      "price": 299000,
+      "rating": 4.3,
+      "sold": 500,
+      "images": "https://raw.githubusercontent.com/tiofani03/ProductApp/main/Assets/image_tumbler.png"
+    },
+    {
+      "id": 5,
+      "name": "Smartwatch",
+      "description": "Smartwatch ini menawarkan berbagai fitur canggih seperti pelacakan kebugaran, notifikasi, dan masa pakai baterai yang lama. Dengan layar sentuh yang responsif dan antarmuka yang intuitif, smartwatch ini mudah digunakan.\n\nDidesain untuk gaya hidup aktif, smartwatch ini juga tahan air dan dilengkapi dengan berbagai mode olahraga. Ini adalah perangkat yang sempurna untuk menjaga kesehatan dan tetap terhubung dengan dunia digital.",
+      "price": 3799000,
+      "rating": 4.5,
+      "sold": 220,
+      "images": "https://raw.githubusercontent.com/tiofani03/ProductApp/main/Assets/image_smart_watch.png"
+    },
+    {
+      "id": 6,
+      "name": "SONY Wireless Headphones WH-XB910N Black",
+      "description": "Headphone nirkabel Sony WH-XB910N menawarkan suara berkualitas tinggi dengan fitur noise cancellation yang canggih, sehingga Anda bisa menikmati musik tanpa gangguan. Dengan tambahan bass yang mendalam, headphone ini cocok untuk penggemar musik bass.\n\nDesain yang nyaman dan baterai yang tahan lama menjadikan headphone ini ideal untuk penggunaan sehari-hari, baik saat bepergian maupun bersantai di rumah.",
+      "price": 2999000,
+      "rating": 4.7,
+      "sold": 150,
+      "images": "https://raw.githubusercontent.com/tiofani03/ProductApp/main/Assets/image_headphone.png"
+    },
+    {
+      "id": 7,
+      "name": "Xiaomi Note 10 S",
+      "description": "Xiaomi Note 10 S adalah smartphone dengan harga terjangkau yang dilengkapi dengan kamera berkualitas tinggi, baterai besar, dan performa yang lancar. Ponsel ini dirancang untuk memberikan pengalaman pengguna yang memuaskan tanpa harus menguras kantong.\n\nDilengkapi dengan layar yang jernih dan berbagai fitur canggih, Xiaomi Note 10 S adalah pilihan yang tepat untuk mereka yang mencari smartphone dengan kinerja baik di kelasnya.",
+      "price": 4599000,
+      "rating": 4.4,
+      "sold": 400,
+      "images": "https://raw.githubusercontent.com/tiofani03/ProductApp/main/Assets/image_phone.png"
+    },
+    {
+      "id": 8,
+      "name": "PS5 Console Slim Model / PS5 Slim Console Disc & Digital Version - PS5 Slim Digital",
+      "description": "PS5 Slim adalah versi terbaru dari konsol game populer PlayStation 5, tersedia dalam edisi disc dan digital. Konsol ini menawarkan kinerja yang cepat dengan grafis yang menakjubkan, serta dukungan untuk berbagai game eksklusif.\n\nDengan desain yang lebih ramping dan hemat ruang, PS5 Slim cocok untuk mereka yang mencari pengalaman gaming terbaik tanpa mengorbankan ruang di ruang hiburan mereka.",
+      "price": 7499000,
+      "rating": 4.9,
+      "sold": 350,
+      "images": "https://raw.githubusercontent.com/tiofani03/ProductApp/main/Assets/image_ps5.png"
+    },
+    {
+      "id": 9,
+      "name": "iMac 2023",
+      "description": "iMac 2023 adalah komputer desktop all-in-one dari Apple yang dilengkapi dengan prosesor terbaru dan layar Retina 5K yang memukau. Komputer ini dirancang untuk memberikan performa tinggi dan pengalaman visual yang luar biasa.\n\nDengan desain minimalis dan berbagai pilihan warna, iMac 2023 tidak hanya menjadi alat produktivitas yang hebat tetapi juga tambahan gaya untuk ruang kerja Anda. Dukungan untuk berbagai aplikasi profesional menjadikannya pilihan ideal untuk pekerja kreatif.",
+      "price": 26999000,
+      "rating": 4.8,
+      "sold": 90,
+      "images": "https://raw.githubusercontent.com/tiofani03/ProductApp/main/Assets/image_imac.png"
+    },
+    {
+      "id": 10,
+      "name": "Nintendo Switch OLED",
+      "description": "Nintendo Switch OLED adalah konsol game hybrid dari Nintendo dengan layar OLED yang cerah dan tajam, memberikan pengalaman gaming yang lebih imersif. Konsol ini dapat digunakan sebagai perangkat portabel atau dihubungkan ke TV untuk pengalaman bermain di layar besar.\n\nDengan desain yang ramping dan dukungan untuk berbagai game populer, Nintendo Switch OLED adalah pilihan ideal bagi para gamer yang mencari fleksibilitas dan kualitas gambar yang superior.",
+      "price": 5299000,
+      "rating": 4.9,
+      "sold": 600,
+      "images": "https://raw.githubusercontent.com/tiofani03/ProductApp/main/Assets/image_switch.png"
+    }
+  ]
+}
