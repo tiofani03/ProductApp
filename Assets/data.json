@@ -89,6 +89,15 @@
       "rating": 4.9,
       "sold": 600,
       "images": "https://raw.githubusercontent.com/tiofani03/ProductApp/main/Assets/image_switch.png"
+    },
+    {
+      "id": 11,
+      "name": "Produk ngawur",
+      "description": "Ngawur",
+      "price": 5299000,
+      "rating": 4.9,
+      "sold": 600,
+      "images": "https://avatars.githubusercontent.com/u/43690617?v=4"
     }
   ]
 }
